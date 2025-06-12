@@ -1,5 +1,9 @@
 from plots import  plot_maze_results  
+<<<<<<< HEAD
 from agents_maze import KonidarisMF
+=======
+from agents_corrected import KonidarisMF
+>>>>>>> 97ef2e1cbabb8b1b734022f2efcb88eced59b414
 # from envs import MultiArmedBandit # Remove or comment out
 from envs import MazeEnv # Import your new MazeEnv
 from play import play_with_parameters
